@@ -1,15 +1,1 @@
-spring:
-  application:
-    name: desafio-btg-pactual
 
-  mongodb:
-    authentication-database: admin
-    host: localhost
-    port: 27017
-    database: btgpactualdb
-    username: admin
-    password: "123"
-
-  data:
-    mongodb:
-      auto-index-creation: true
